@@ -8,7 +8,7 @@ This lab is designed to be used in [vagrant](https://www.vagrantup.com/). To get
 
 	$ git clone https://github.com/jbarone/xxelab.git
 	$ cd xxelab
-	$ vagrant up
+	$ vagrant up//safc
 
 ## Using ##
 
@@ -35,3 +35,4 @@ This lab works best when you make use of a proxy that will allow you to see the 
 - [Burp Suite](https://portswigger.net/burp/)
 - [Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 - [Mitm Proxy](https://mitmproxy.org)
+
